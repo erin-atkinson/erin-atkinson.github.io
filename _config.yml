@@ -55,3 +55,5 @@ author:
 collections:
   publications:
     output: false
+
+anachronistic: "This event is from before I started this blog and is written from memory\n{: .message }"
