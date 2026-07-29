@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://erin.atkinson60@gmail.com
+  icon: fas fa-envelope
+- title: GitHub
+  url: https://github.com/erin-atkinson
+  icon: fab fa-github
+- title: University of Toronto
+  url: https://www.physics.utoronto.ca/members/atkinson-erin/
+  icon: fas fa-graduation-cap
